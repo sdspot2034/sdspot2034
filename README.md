@@ -7,7 +7,7 @@
 - 🤝 I’m looking for help with **deploying RESTful APIs for ML**
 - 💬 Ask me about **anything**
 - 📫 How to reach me **shreyandas2034@gmail.com**
-- ⚡ Fun fact **I also write! Check out my blog @extramundane.humdrum on Instagram!**
+- ⚡ Fun fact **I also write! Check out my blog <a href = https://www.instagram.com/extramundane.humdrum/">@extramundane.humdrum</a> on Instagram!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
