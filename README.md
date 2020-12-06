@@ -1,14 +1,3 @@
-### Hi there, I am Shreyan Das! 👋
-
-- 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Web Development with HTML, CSS and JavaScript
-- 👯 I’m looking to collaborate on Machine Learning
-- 🤔 I’m looking for help with deployment of REST APIs for ML projects
-- 💬 Ask me about anything
-- 📫 How to reach me: shreyandas2034@gmail.com
-- ⚡ Fun fact: I am also a writer! Check out @extramundane.humdrum on Instagram!
-
-
 <h1 align="center">Hi 👋, I'm Shreyan Das!</h1>
 <h3 align="center">A tech-enthusiast and an ML devotee</h3>
 
