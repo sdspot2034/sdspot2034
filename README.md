@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there, I am Shreyan Das! 👋
 
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Web Development with HTML, CSS and JavaScript
