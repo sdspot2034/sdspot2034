@@ -2,7 +2,7 @@
 <h3 align="center">A tech-enthusiast and an ML devotee</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
-- 🌱 I’m currently learning **Web Development with HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **Web Development with React and Firebase**
 - 👯 I’m looking to collaborate on **any Machine Learning project**
 - 🤝 I’m looking for help with **deploying RESTful APIs for ML**
 - 💬 Ask me about **anything**
