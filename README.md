@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyan Das!</h1>
-<h3 align="center">Data Engineer / Data Scientist / Technology Consultant @ [EY](https://www.ey.com/en_in)</h3>
+<h3 align="center">Data Engineer / Data Scientist / Technology Consultant @ <a href="https://www.ey.com/en_in">EY</a></h3>
 
 
 - 🔭 I’m currently working on **Machine Learning**
