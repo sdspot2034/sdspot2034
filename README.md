@@ -11,9 +11,9 @@
 
 <h2> Project Portfolio </h2>
 
-| Key Skill | Title | Description | Skills Used |
-| --- | --- | --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" width="40"> PowerBI | [Reading Analytics](https://github.com/sdspot2034/reading-analytics/tree/main) | Discovering insights within my reading patterns.  **Objective(s):**  <ul><li>Optimise my book expenditures by understanding best RoIs.</li> <li> Streamline time management by spending more time on promising books.</li> <li> Minimising DNF rate. </li></ul> | `PowerBI`, `Data Modelling`, `Data Cleaning`, `Data Wrangling`, `EDA` |
+|ID | Key Skill | Title | Description | Skills Used |
+|--- | --- | --- | --- | --- |
+|#1|| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" width="40"> PowerBI | [Reading Analytics](https://github.com/sdspot2034/reading-analytics/tree/main) | Discovering insights within my reading patterns.  **Objective(s):**  <ul><li>Optimise my book expenditures by understanding best RoIs.</li> <li> Streamline time management by spending more time on promising books.</li> <li> Minimising DNF rate. </li></ul> | `PowerBI`, `Data Modelling`, `Data Cleaning`, `Data Wrangling`, `EDA` |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
