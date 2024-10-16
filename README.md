@@ -9,6 +9,12 @@
 - 💬 Ask me about **Data Engineering, SQL, Python**
 - 📫 How to reach me **shreyandas2034@gmail.com**
 
+<h2> Project Portfolio </h2>
+
+| Key Skill | Title | Description | Skills Used |
+| --- | --- | --- | --- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" width="40"> PowerBI | Reading Analytics | Discovering insights within my reading patterns.  **Objective(s):**  <ul><li>Optimise my book expenditures by understanding best RoIs.</li> <li> Streamline time management by spending more time on promising books.</li> <li> Minimising DNF rate. </li></ul> | `PowerBI`, `Data Modelling`, `Data Cleaning`, `Data Wrangling`, `EDA` |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shreyan-das-2034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyan-das-2034" height="30" width="40" /></a>
