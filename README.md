@@ -9,7 +9,7 @@
 - 💬 Ask me about **Data Engineering, SQL, Python**
 - 📫 How to reach me **shreyandas2034@gmail.com**
 
-<h2> Project Portfolio </h2>
+<h2> Flagship Projects </h2>
 
 |ID | Key Skill | Title | Description | Skills Used |
 |--- | --- | --- | --- | --- |
